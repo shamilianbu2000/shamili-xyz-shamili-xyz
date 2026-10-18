@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shamili-a-960124215/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shamilianbu2000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -92,15 +93,3 @@ Full Stack Developer with over 4 years of experience building scalable enterpris
 - ⚙️ Automated multi-level approval workflows, cutting manual processing time by **45%**
 - 🚀 Optimized SQL queries and indexes, improving report-generation performance by **60%**
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shamilianbu2000&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilianbu2000&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shamilianbu2000&theme=radical&hide_border=true" alt="Streak" />
-</p>
